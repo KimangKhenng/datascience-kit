@@ -1,4 +1,4 @@
-FROM quay.io/jupyter/scipy-notebook:aarch64-2024-05-06
+FROM quay.io/jupyter/scipy-notebook:2024-05-06
 
 COPY requirement.txt /tmp/requirement.txt
 
